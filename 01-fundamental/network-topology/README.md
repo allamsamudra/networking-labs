@@ -24,7 +24,7 @@ Understanding network topology is important because it affects the performance, 
 
 In a Peer to Peer (P2P) topology, each device connects directly to one or more other devices without a central server. Every device can act as both a client and a server, sharing resources directly with other devices on the network.
 
-<img src="./p2p.png" height="200" width="563" />
+<img src="./p2p.png" />
 
 **Characteristics**
 
@@ -54,7 +54,7 @@ A small home network where two or three computers share files and a printer dire
 
 In a Mesh topology, every device is connected to every other device in the network. This creates multiple paths for data to travel, making the network highly reliable.
 
-<img src="./mesh.png" height="200" width="563" />
+<img src="./mesh.png" />
 
 **Characteristics**
 
@@ -84,7 +84,7 @@ Military communication systems and internet backbone infrastructure where contin
 
 Tree topology organizes devices in a hierarchical structure, similar to branches on a tree. It is a combination of Star and Bus topologies, with a root node at the top and child nodes branching outward.
 
-<img src="./tree.png" height="200" width="563" />
+<img src="./tree.png"  />
 
 **Characteristics**
 
@@ -114,7 +114,7 @@ Large corporate networks where different departments, such as finance, sales, an
 
 In a Bus topology, all devices connect to a single central cable called the backbone or bus. Data sent by any device travels along this cable and is received by all other devices, but only the intended recipient processes it.
 
-<img src="./bus.png" height="200" width="563" />
+<img src="./bus.png"  />
 
 **Characteristics**
 
@@ -144,7 +144,7 @@ Small office networks with a limited number of devices, or temporary network set
 
 In a Star topology, all devices connect to a single central device, usually a switch or hub. No device connects directly to another. All communication passes through the central device.
 
-<img src="./star.png" height="200" width="563" />
+<img src="./star.png"  />
 
 **Characteristics**
 
@@ -174,7 +174,7 @@ The most common topology used in modern home and office networks. A home Wi-Fi r
 
 Hybrid topology is a combination of two or more different topologies working together as a single network. It is designed to take advantage of the strengths of each topology used.
 
-<img src="./hybird.png" height="200" width="563" />
+<img src="./hybrid.png"  />
 
 **Characteristics**
 
@@ -204,7 +204,7 @@ Large organizations such as universities or hospitals that have different networ
 
 Linear topology, also known as Daisy Chain topology, connects devices in a straight line. Each device connects to the next one in sequence, forming a single continuous path from one end to the other.
 
-<img src="./linear.png" height="200" width="563" />
+<img src="./linear.png"  />
 
 **Characteristics**
 
@@ -234,7 +234,7 @@ Connecting a series of machines on a factory production line, or linking audio a
 
 A Wireless Local Area Network (WLAN) topology connects devices using wireless radio signals instead of physical cables. Devices communicate through an Access Point (AP) or directly with each other in a wireless environment.
 
-<img src="./wlan.png" height="200" width="563" />
+<img src="./wlan.png"  />
 
 **Characteristics**
 
@@ -264,7 +264,7 @@ Coffee shops, airports, libraries, and office buildings that provide wireless in
 
 In a Ring topology, each device connects to exactly two other devices, forming a closed circular loop. Data travels around the ring in one direction until it reaches the intended recipient.
 
-<img src="./ring.png" height="200" width="563" />
+<img src="./ring.png" />
 
 **Characteristics**
 
